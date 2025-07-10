@@ -1,8 +1,9 @@
+package min_project;
 public class EmployeInformation{
 	    public static void main(String[] args) {
 	        int[] empNo = {1001, 1002, 1003, 1004, 1005, 1006, 1007};
 	        String[] empName = {"Ashish", "Sushma", "Rahul", "Chahat", "Ranjan", "Suman", "Tanmay"};
-	        String[] joinDate = {"01/04/2009", "23/08/2012", "12/11/2008", "29/01/2013", "16/07/2005", "1/1/2000", "12/06/2006"};
+	        
 	        char[] desigCode = {'e', 'c', 'k', 'r', 'm', 'e', 'c'};
 	        String[] department = {"R&D", "PM", "Acct", "Front Desk", "Engg", "Manufacturing", "PM"};
 	        int[] basic = {20000, 30000, 10000, 12000, 50000, 23000, 29000};
@@ -63,4 +64,3 @@ public class EmployeInformation{
 	    }
 	}
 
-}
